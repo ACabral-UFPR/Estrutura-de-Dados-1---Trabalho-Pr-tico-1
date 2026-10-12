@@ -1,6 +1,6 @@
 # Tarefa Estrutura de Dados 1
 ## Sistema de Reservas de Equipamentos Tecnológicos
-### Adrian Cabraç | GRR20250969 | 3° Periodo Noturno | 12 de Outubro de 2026
+### Adrian Cabral | GRR20250969 | 3° Periodo Noturno | 12 de Outubro de 2026
 
 Este trabalho foi feito com a ajuda de inteligência artificial, na forma de guia de pesquisas, 
 exemplos de códigos e correções de erros dos quais eu não conseguí corrigir por meios normais.
@@ -13,5 +13,5 @@ Para superar o problema dos ponteiros, eu peguei como base os arquivos de lista 
 nó cabeçalho da apostila disponibilizada pelo professor, usando inteligência artificial para 
 explicar partes do código e criar exemplos usando os conceitos explicados, tais como o uso de
 operadores flecha (->) e pequenas correções para o código dos arquivos para que a compilação
-se tornasse possível
+se tornasse possível.
 
